@@ -261,7 +261,7 @@ html, body {
     height:100%;
 }
 
-a{ text-decoration: none; }
+a{ text-decoration: none; color:#737373; }
 a:visited { text-decoration: none; color:#737373; }
 a:hover { text-decoration: none; color:#737373; }
 a:focus { text-decoration: none; color:#737373; }
