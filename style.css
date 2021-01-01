@@ -40,7 +40,7 @@ ul {
 li {
   display: inline-block;
   padding: 0px 30px 0px 10px;
-  font-family:courier, courier new, serif
+  font-family:courier, courier new, serif;
   font-size: 20px;
   font-weight: 1000;
 }
@@ -87,10 +87,6 @@ td {
   font-size: 22px;
   width: 900px;
   margin: 0 auto;
-}
-
-.content {
-	
 }
 
 .table {
@@ -198,7 +194,7 @@ textarea:focus {
 }
 
 .picture { 
-  font-family:courier, courier new, serif
+  font-family:courier, courier new, serif;
   text-align: center;
   background-color: rgb(79, 79, 79);
 }
@@ -265,7 +261,7 @@ a{ text-decoration: none; color:#737373; }
 a:visited { text-decoration: none; color:#737373; }
 a:hover { text-decoration: none; color:#737373; }
 a:focus { text-decoration: none; color:#737373; }
-a:hover, a:active { text-decoration: none; color:black }
+a:hover, a:active { text-decoration: none; color:black; }
 
 .contact-form {
 	padding: 20px;
