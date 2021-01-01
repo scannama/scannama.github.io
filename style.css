@@ -1,0 +1,294 @@
+#tip {
+  margin: 10px 0px 30px 0px;
+  font-size: 50px;
+}
+
+h1 {
+	  font-family:courier, courier new, serif;
+}
+
+.site-name {
+  float: left;
+  padding: 10px 0px 0px 125px;
+  z-index: 3;
+  position: fixed;
+  font-family:courier, courier new, serif;
+}
+
+.socials {
+text-align: center;
+background-color: #3d3d3d;
+}
+ul {
+  background-color: rgb(247, 247, 247);
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+  position: fixed;
+  z-index: 2;
+  font-family:courier, courier new, serif;	
+  display: block;
+}
+
+.content {
+	background-color: #3d3d3d;
+	padding-top: 105px;
+	padding-bottom: 105px;
+	padding-left: 425px;
+
+}
+li {
+  display: inline-block;
+  padding: 0px 30px 0px 10px;
+  font-family:courier, courier new, serif
+  font-size: 20px;
+  font-weight: 1000;
+}
+
+td {
+  border: 3px solid white;
+  font-size: 30px;
+  padding: 10px;
+  width: 50%;
+}
+
+.aboutp{
+	padding-left: 370px;
+	padding-bottom: 75px;
+}
+
+.pic{
+	display: inline-block;
+}
+
+.study{
+	padding-top: 8px;
+}
+
+.job{
+	padding-top: 8px;
+}
+
+.swimpic{
+	padding-top: 15px;
+	margin-right: -10px;
+}
+
+.content3 {
+  background-color: #ffffff;
+  color: #3d3d3d;
+  font-family:courier, courier new, serif;
+  text-align: center;
+  padding: 40px;
+
+}
+
+.almosttop {
+  font-size: 22px;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.content {
+	
+}
+
+.table {
+  text-align: center;
+  background-color: #3d3d3d;
+  color: white;
+  padding: 40px;
+  font-family: verdana;
+}
+
+.form {
+  font-family:courier, courier new, serif
+  padding: 40px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+  background-color: #ffffff;
+  
+}
+.th {
+  position: relative;
+  left: 310px;
+}
+
+.table h1 {
+  padding: 10px;
+  font-size: 50px;
+} 
+
+label {
+  font-weight: 700;
+  padding: 50px 0px;
+}
+
+input[type=text]:focus {
+
+  border: 1px  #999;
+}
+
+textarea:focus {
+
+  border: 1px solid #999;
+}
+.contact .form-control {
+  padding: 2px;	
+  background: transparent;
+  border: 1px solid #f0f0f0;
+  border-radius: 0px;
+  box-shadow: none;
+  font-size: 16px;
+  margin-bottom: 16px;
+  transition: all 0.4s ease-in-out;
+  
+}
+
+.form {
+	margin: 200px;
+	}
+.contact .form-control:hover {
+  border-color: #999;
+}
+
+.contact input {height: 55px; width: 350px;}
+
+.contact input[type='submit'] {
+  background: #242424;
+  border: none;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  transition: all 0.4s ease-in-out;
+  margin-top: 10px;
+  overflow: hidden;
+}
+
+.contact input[type='submit']:hover {
+  background: #cc6c68;
+}
+
+.form-control{
+	margin-top: 20px;
+}
+
+#message {
+	width: 700px;
+	padding: 10px;	
+}
+
+.center{
+	width: 60%;
+	padding-top: 25px;
+	padding-left: 100px;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: left;
+}
+
+.content4 {
+  background-color: rgb(91, 255, 255);
+  color: black;
+  font-family:courier, courier new, serif;
+  text-align: center;
+  padding: 40px;
+}
+
+.picture { 
+  font-family:courier, courier new, serif
+  text-align: center;
+  background-color: rgb(79, 79, 79);
+}
+
+.picture h2 {
+  padding: 40px 0px;
+}
+
+.content4 p {
+  font-size: 22px;
+  width: 900px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.content5 {
+  color: black;
+  font-family:courier, courier new, serif;
+  text-align: center;
+  padding: 40px;
+  margin: 10px auto;
+}
+
+.content6 {
+	background-color: #2d2d30;
+}
+
+.cardcontainer{
+	padding: 30px;
+	display: inline-block;
+}
+
+.card1 {
+  border: 1px solid black;
+  height: 366px;
+  text-align: center;
+  width: 274px;
+  overflow-y: hidden;
+  background-color: white;
+    border-radius: 25px;
+}
+
+.card2 {
+  border: 1px solid black;
+  height: 366px;
+  text-align: center;
+  width: 274px;
+  overflow-y: hidden;
+  background-color:white;
+    border-radius: 25px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+html, body {
+    height:100%;
+}
+
+a{ text-decoration: none; }
+a:visited { text-decoration: none; color:#737373; }
+a:hover { text-decoration: none; color:#737373; }
+a:focus { text-decoration: none; color:#737373; }
+a:hover, a:active { text-decoration: none; color:black }
+
+.contact-form {
+	padding: 20px;
+}
+
+.hello {
+	display: inline-block;
+	position: relative;
+	bottom: 400px;
+    font-family: system-ui, -apple-system, "Helvetica Neue", Helvetica, "Lato", sans-serif;
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+}
+
+.cardtext {
+	color: black;
+	padding-bottom: 20px;
+	bottom: 400px;
+    font-family: system-ui, -apple-system, "Helvetica Neue", Helvetica, "Lato", sans-serif;
+}
+
+.copyright-text{
+	font-family: Rajdhani, sans-serif;
+	font-size: 14px;
+}
